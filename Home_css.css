@@ -1,0 +1,113 @@
+body{
+  background-color: #006873;
+}
+
+.website_name{
+  color: #cef2f5;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.website_name h1{
+  padding-bottom: -10px;
+  margin-bottom: -15px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 350%;
+}
+
+.website_name h4{
+  font-family: 'Special Elite', cursive;
+}
+
+.snippet{
+  position: relative;
+  background-color: #cef2f5;
+  margin-left: 10%;
+  margin-right: 10%;
+  max-width: 1147.20px;
+  margin: auto;
+  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+  box-shadow: 5px 5px rgba(0,0,0,0.15);
+  margin-bottom: 80px;
+  max-height: 800px;
+  padding-bottom: 0px;
+}
+
+@media screen and ( max-width: 1450px ){
+    .snippet{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+.snippet img{
+  position: relative;
+  float: left;
+  width: 12%;
+  height: 12%;
+  display: block;
+  margin-right: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 0px;
+}
+
+.postwar img{
+  width: 20%;
+  height: 20%;
+}
+
+.subtitle{
+  position: relative;
+  margin-top: -12px;
+  padding-top: -12px;
+  display: block;
+  font-size: 16px;
+  margin-left: 10px;
+  color: rgba(0,0,0,0.8)
+}
+
+.date{
+  position: relative;
+  margin-top: -20px;
+  padding-top: -15px;
+  display: block;
+  font-size: 12px;
+  margin-left: 10px;
+  color: rgba(0,0,0,0.5)
+}
+
+
+.title{
+  position: relative;
+  padding-bottom: -28px;
+  margin-bottom: -28px;
+  margin-top: -28px;
+  display: block;
+  font-size: 21px;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+
+.title h3{
+  padding-top: 5px;
+  padding-left: 10px;
+  margin-left: 10px;
+  color: rgba(0,0,0,0.9)
+}
+
+.body p{
+  font-size: 18px;
+  padding-bottom: 20px;
+  padding-right: 5px;
+  margin-left: 10px;
+  padding-left: 10px;
+  color: rgba(0,0,0,0.7);
+}
+
+a{
+  color: rgba(0,0,0,0.9);
+  text-decoration: none;
+}
