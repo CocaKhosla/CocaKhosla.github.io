@@ -128,9 +128,13 @@ a{
 .QMark{
   z-index: 2;
   position: fixed;
-  bottom: 0;
+  bottom: 5px;
+  width: 80px;
+  height: 80px;
+  font-size: 40px;
   right: 20px;
   color: #cef2f5;
+  background-color: #006873;
   font-family: 'Press Start 2P', cursive;
 }
 
